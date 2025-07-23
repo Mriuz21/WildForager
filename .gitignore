@@ -1,0 +1,6 @@
+node_modules/
+.expo/
+.env
+src/utils/firebase.ts
+.DS_Store
+*.log 
